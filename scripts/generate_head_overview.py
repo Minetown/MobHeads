@@ -21,7 +21,7 @@ async def main():
   with open(OVERVIEW_FILE, "w") as overview:
     overview.write("# List of all Mob Heads\n\n")
 
-    for name, url in sorted(find_mob_heads(), key = lambda x: x[0]):
+    for name, url in sorted(find_mob_heads(), key = lambda x: x[0].lower()):
       output_file = f"{RENDERED_DIRECTORY}/{get_output_filename(name)}.png"
 
       await render_head(url, output_file)
