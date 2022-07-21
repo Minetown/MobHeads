@@ -128,6 +128,10 @@
 
 ![Iron Golem](./rendered/iron_golem.png)
 
+### jeb_ Sheep
+
+![jeb_ Sheep](./rendered/jeb__sheep.png)
+
 ### Light Blue Sheep
 
 ![Light Blue Sheep](./rendered/light_blue_sheep.png)
@@ -299,8 +303,4 @@
 ### Zombified Piglin
 
 ![Zombified Piglin](./rendered/zombified_piglin.png)
-
-### jeb_ Sheep
-
-![jeb_ Sheep](./rendered/jeb__sheep.png)
 
