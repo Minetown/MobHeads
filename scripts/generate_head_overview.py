@@ -3,11 +3,9 @@ import base64
 import io
 import json
 import shutil
-from uuid import uuid4
 import MinePI
 import urllib.request
 import PIL.Image
-import PIL
 import os
 import re
 from typing import Iterable
@@ -27,11 +25,11 @@ async def main():
       for nbt in find_skull_nbt(file):
         name = find_name(nbt)
         url = find_texture_url(nbt)
-        output_file = f"{RENDERED_DIRECTORY}/{str(uuid4())}.png"
+        output_file = f"{RENDERED_DIRECTORY}/{get_output_filename(name)}.png"
 
         await render_head(url, output_file)
 
-        overview.write(f"## {name}\n\n")
+        overview.write(f"### {name}\n\n")
         overview.write(f"![{name}](./{output_file})\n\n")
       
 def find_loot_tables() -> Iterable[str]:
@@ -79,11 +77,13 @@ def find_texture_url(nbt: str) -> str:
   texture_values = re.findall(r"Properties:{textures:\[{Value:\"([\w\+/=]+)\"", nbt)
 
   if len(texture_values) != 1:
-    
     raise KeyError(f"Could not find unambiguous texture value in '{nbt}'")
 
   root = json.loads(base64.b64decode(texture_values[0]))
   return root["textures"]["SKIN"]["url"]
+
+def get_output_filename(name: str) -> str:
+  return name.lower().replace(" ", "_")
 
 async def render_head(url: str, output_file: str) -> str:
   with urllib.request.urlopen(url) as f:

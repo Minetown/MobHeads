@@ -1,306 +1,306 @@
 # List of all Mob Heads
 
-## Allay
+### Allay
 
-![Allay](./rendered/9f52bcf8-b4bc-492d-b03b-8af256c7b41d.png)
+![Allay](./rendered/allay.png)
 
-## Blaze
+### Blaze
 
-![Blaze](./rendered/048d40e8-0e1c-475f-b62f-6571f826b8ff.png)
+![Blaze](./rendered/blaze.png)
 
-## Cave Spider
+### Cave Spider
 
-![Cave Spider](./rendered/13b5abde-d4df-4f7c-8d08-0be02bf36ad9.png)
+![Cave Spider](./rendered/cave_spider.png)
 
-## Chicken
+### Chicken
 
-![Chicken](./rendered/ecbfa6f8-fd9e-4021-bb63-c54dc1d690e9.png)
+![Chicken](./rendered/chicken.png)
 
-## Cod
+### Cod
 
-![Cod](./rendered/bdb985b1-3477-4b71-aead-c7315c03dcca.png)
+![Cod](./rendered/cod.png)
 
-## Cow
+### Cow
 
-![Cow](./rendered/2431d292-a3c7-4db8-b6db-d20085413ccd.png)
+![Cow](./rendered/cow.png)
 
-## Charged Creeper
+### Charged Creeper
 
-![Charged Creeper](./rendered/e332924d-9f6b-45d6-9ac3-94facc1cbd9f.png)
+![Charged Creeper](./rendered/charged_creeper.png)
 
-## Dolphin
+### Dolphin
 
-![Dolphin](./rendered/c0d95787-9f9e-4266-b09e-ee3022d0e2fb.png)
+![Dolphin](./rendered/dolphin.png)
 
-## Donkey
+### Donkey
 
-![Donkey](./rendered/22619b28-176a-4787-b3a3-2d988078829f.png)
+![Donkey](./rendered/donkey.png)
 
-## Drowned
+### Drowned
 
-![Drowned](./rendered/8e1555d2-b180-4bff-a688-7e3e8d3d9fbe.png)
+![Drowned](./rendered/drowned.png)
 
-## Elder Guardian
+### Elder Guardian
 
-![Elder Guardian](./rendered/11754bb7-168b-4d59-9c47-f8de68303096.png)
+![Elder Guardian](./rendered/elder_guardian.png)
 
-## Enderman
+### Enderman
 
-![Enderman](./rendered/ea50f097-0fdf-4601-9c0f-89c4920476c0.png)
+![Enderman](./rendered/enderman.png)
 
-## Endermite
+### Endermite
 
-![Endermite](./rendered/e9f3dcc9-1c45-493e-b7ba-ece9c51b2466.png)
+![Endermite](./rendered/endermite.png)
 
-## Evoker
+### Evoker
 
-![Evoker](./rendered/4a21e502-e9d1-4a75-a207-d4c7972eb896.png)
+![Evoker](./rendered/evoker.png)
 
-## Ghast
+### Ghast
 
-![Ghast](./rendered/b05dd73b-6113-4199-97aa-0bc5890f9819.png)
+![Ghast](./rendered/ghast.png)
 
-## Glow Squid
+### Glow Squid
 
-![Glow Squid](./rendered/7954e2f0-df26-4696-aa30-dac5692efa72.png)
+![Glow Squid](./rendered/glow_squid.png)
 
-## Guardian
+### Guardian
 
-![Guardian](./rendered/263d3313-e9ee-40d6-98fd-56d00342fd23.png)
+![Guardian](./rendered/guardian.png)
 
-## Hoglin
+### Hoglin
 
-![Hoglin](./rendered/f3b1d241-1ce9-4d68-8e11-9594d29e2233.png)
+![Hoglin](./rendered/hoglin.png)
 
-## Husk
+### Husk
 
-![Husk](./rendered/bac2d03a-eff7-4da2-9c87-a9bc338d0772.png)
+![Husk](./rendered/husk.png)
 
-## Illusioner
+### Illusioner
 
-![Illusioner](./rendered/66042c6a-f271-4a0a-a77b-1a87d779da3c.png)
+![Illusioner](./rendered/illusioner.png)
 
-## Iron Golem
+### Iron Golem
 
-![Iron Golem](./rendered/c4f23059-360a-44a9-8a28-9ff0e81d4399.png)
+![Iron Golem](./rendered/iron_golem.png)
 
-## Magma Cube
+### Magma Cube
 
-![Magma Cube](./rendered/167fcf03-7d5e-4596-9662-a59733f1bff5.png)
+![Magma Cube](./rendered/magma_cube.png)
 
-## Mule
+### Mule
 
-![Mule](./rendered/5d902ddc-cac5-486f-9cef-684079939fe3.png)
+![Mule](./rendered/mule.png)
 
-## Ocelot
+### Ocelot
 
-![Ocelot](./rendered/4e6a3b75-4e1a-484c-9e39-1a1612bc679e.png)
+![Ocelot](./rendered/ocelot.png)
 
-## Phantom
+### Phantom
 
-![Phantom](./rendered/eebe5c0a-ef6f-4fae-abf0-fa24cc83e148.png)
+![Phantom](./rendered/phantom.png)
 
-## Pig
+### Pig
 
-![Pig](./rendered/890d16b9-8361-4df2-a128-c4faf822c96c.png)
+![Pig](./rendered/pig.png)
 
-## Piglin
+### Piglin
 
-![Piglin](./rendered/b615a03a-573c-43cb-810f-be1d6021f3bf.png)
+![Piglin](./rendered/piglin.png)
 
-## Piglin Brute
+### Piglin Brute
 
-![Piglin Brute](./rendered/70b5caeb-a5dc-41e3-9e76-24795247e6b4.png)
+![Piglin Brute](./rendered/piglin_brute.png)
 
-## Pillager
+### Pillager
 
-![Pillager](./rendered/4b813e99-fee6-400b-968b-b6eb4dd081a1.png)
+![Pillager](./rendered/pillager.png)
 
-## Polar Bear
+### Polar Bear
 
-![Polar Bear](./rendered/085d23bd-989b-47ab-b31c-b4969235c435.png)
+![Polar Bear](./rendered/polar_bear.png)
 
-## Pufferfish
+### Pufferfish
 
-![Pufferfish](./rendered/577d5d12-1901-433b-b934-b8625ca94c9e.png)
+![Pufferfish](./rendered/pufferfish.png)
 
-## Ravager
+### Ravager
 
-![Ravager](./rendered/b7e896bc-01c4-4e3b-ad82-d5539dd3a01e.png)
+![Ravager](./rendered/ravager.png)
 
-## Salmon
+### Salmon
 
-![Salmon](./rendered/80f828b0-741d-4121-816a-eae53983484c.png)
+![Salmon](./rendered/salmon.png)
 
-## Black Sheep
+### Black Sheep
 
-![Black Sheep](./rendered/27bf3775-42f4-4a73-8399-0a03b03b1205.png)
+![Black Sheep](./rendered/black_sheep.png)
 
-## Blue Sheep
+### Blue Sheep
 
-![Blue Sheep](./rendered/5e956f43-2dee-4f3f-97a4-fbe56126b977.png)
+![Blue Sheep](./rendered/blue_sheep.png)
 
-## Brown Sheep
+### Brown Sheep
 
-![Brown Sheep](./rendered/84fedf36-a59a-4b4f-a76e-8f9688bf24fc.png)
+![Brown Sheep](./rendered/brown_sheep.png)
 
-## Cyan Sheep
+### Cyan Sheep
 
-![Cyan Sheep](./rendered/80b45736-f7da-47b1-be7a-903955a72d27.png)
+![Cyan Sheep](./rendered/cyan_sheep.png)
 
-## Gray Sheep
+### Gray Sheep
 
-![Gray Sheep](./rendered/505d7fbb-a10b-44eb-96a5-e20f3fada6d8.png)
+![Gray Sheep](./rendered/gray_sheep.png)
 
-## Green Sheep
+### Green Sheep
 
-![Green Sheep](./rendered/19bee69d-db38-4131-8501-83aa8f668f75.png)
+![Green Sheep](./rendered/green_sheep.png)
 
-## jeb_ Sheep
+### jeb_ Sheep
 
-![jeb_ Sheep](./rendered/05964b2a-f72b-490d-a44a-d5f56b45dfed.png)
+![jeb_ Sheep](./rendered/jeb__sheep.png)
 
-## Light Blue Sheep
+### Light Blue Sheep
 
-![Light Blue Sheep](./rendered/55c44791-0f78-406f-a76f-1d86a4694296.png)
+![Light Blue Sheep](./rendered/light_blue_sheep.png)
 
-## Light Gray Sheep
+### Light Gray Sheep
 
-![Light Gray Sheep](./rendered/3c3c92c0-63f5-4c1e-8257-b954a637fb22.png)
+![Light Gray Sheep](./rendered/light_gray_sheep.png)
 
-## Lime Sheep
+### Lime Sheep
 
-![Lime Sheep](./rendered/db3327dc-e468-4c83-be59-e12f244b4856.png)
+![Lime Sheep](./rendered/lime_sheep.png)
 
-## Magenta Sheep
+### Magenta Sheep
 
-![Magenta Sheep](./rendered/45ab23fd-8e12-4d83-a2c5-d050a40f9b98.png)
+![Magenta Sheep](./rendered/magenta_sheep.png)
 
-## Orange Sheep
+### Orange Sheep
 
-![Orange Sheep](./rendered/6ae1f26f-af91-446e-9231-0434cc917989.png)
+![Orange Sheep](./rendered/orange_sheep.png)
 
-## Pink Sheep
+### Pink Sheep
 
-![Pink Sheep](./rendered/8c306a09-4d8a-442e-8616-c8ec10f75d09.png)
+![Pink Sheep](./rendered/pink_sheep.png)
 
-## Purple Sheep
+### Purple Sheep
 
-![Purple Sheep](./rendered/582f9b06-5b7c-44ed-9982-5b39319ba7d3.png)
+![Purple Sheep](./rendered/purple_sheep.png)
 
-## Red Sheep
+### Red Sheep
 
-![Red Sheep](./rendered/3e99f75e-fb9e-45ce-a6ac-901b64151107.png)
+![Red Sheep](./rendered/red_sheep.png)
 
-## White Sheep
+### White Sheep
 
-![White Sheep](./rendered/47065539-d243-47af-8b5f-d23034b6eb52.png)
+![White Sheep](./rendered/white_sheep.png)
 
-## Yellow Sheep
+### Yellow Sheep
 
-![Yellow Sheep](./rendered/9b05e08f-a258-45b6-b4f9-8fb2d6a8c8e0.png)
+![Yellow Sheep](./rendered/yellow_sheep.png)
 
-## Silverfish
+### Silverfish
 
-![Silverfish](./rendered/d1311f27-09d4-48ba-83a1-22f7dfda1428.png)
+![Silverfish](./rendered/silverfish.png)
 
-## Skeleton Horse
+### Skeleton Horse
 
-![Skeleton Horse](./rendered/150f553e-2250-47d0-bd14-3688249e354d.png)
+![Skeleton Horse](./rendered/skeleton_horse.png)
 
-## Slime
+### Slime
 
-![Slime](./rendered/23d37aa5-c475-45fa-8994-c8706dfe228d.png)
+![Slime](./rendered/slime.png)
 
-## Snow Golem
+### Snow Golem
 
-![Snow Golem](./rendered/9e588d8d-f0ae-473d-94df-c1f7ba895b3a.png)
+![Snow Golem](./rendered/snow_golem.png)
 
-## Spider
+### Spider
 
-![Spider](./rendered/1a29bc04-107f-495a-8dbe-3f064e22e09d.png)
+![Spider](./rendered/spider.png)
 
-## Squid
+### Squid
 
-![Squid](./rendered/5f9b6145-b21b-432f-a11d-650ecac5dece.png)
+![Squid](./rendered/squid.png)
 
-## Stray
+### Stray
 
-![Stray](./rendered/3dc514d5-c9e1-4bcf-878a-f3875018d3b7.png)
+![Stray](./rendered/stray.png)
 
-## Strider
+### Strider
 
-![Strider](./rendered/f340b022-967b-46d4-b34f-60eecd358b84.png)
+![Strider](./rendered/strider.png)
 
-## Freezing Strider
+### Freezing Strider
 
-![Freezing Strider](./rendered/e1b0b28f-a398-40cf-9f44-235426596139.png)
+![Freezing Strider](./rendered/freezing_strider.png)
 
-## Tadpole
+### Tadpole
 
-![Tadpole](./rendered/08c147a3-6168-40f9-ad00-318ed7f9d043.png)
+![Tadpole](./rendered/tadpole.png)
 
-## Tropical Fish
+### Tropical Fish
 
-![Tropical Fish](./rendered/d9a80dd7-3f1b-4cfd-953b-ec73d52031f4.png)
+![Tropical Fish](./rendered/tropical_fish.png)
 
-## Turtle
+### Turtle
 
-![Turtle](./rendered/69f7098e-0dd5-4dc5-a913-b64b41986b28.png)
+![Turtle](./rendered/turtle.png)
 
-## Vex
+### Vex
 
-![Vex](./rendered/8769543a-9a47-481d-9dae-c73d5e941f2e.png)
+![Vex](./rendered/vex.png)
 
-## Vindicator
+### Vindicator
 
-![Vindicator](./rendered/ca1bb108-2f70-465d-903c-967a4cdc5f2c.png)
+![Vindicator](./rendered/vindicator.png)
 
-## Wandering Trader
+### Wandering Trader
 
-![Wandering Trader](./rendered/3f6e8318-c2a5-4b12-84ad-a92ef3ff029d.png)
+![Wandering Trader](./rendered/wandering_trader.png)
 
-## Warden
+### Warden
 
-![Warden](./rendered/9fe19334-7691-4baa-8e61-cf02a7a5b0ff.png)
+![Warden](./rendered/warden.png)
 
-## Witch
+### Witch
 
-![Witch](./rendered/021706e1-83cf-4372-ba04-59a5efe578e5.png)
+![Witch](./rendered/witch.png)
 
-## Wither
+### Wither
 
-![Wither](./rendered/c2abd8e9-174e-4398-8ef6-9039c27c051e.png)
+![Wither](./rendered/wither.png)
 
-## Invulnerable Wither
+### Invulnerable Wither
 
-![Invulnerable Wither](./rendered/6e1c0dcf-6fae-4cf9-bc2b-3686125bdbd7.png)
+![Invulnerable Wither](./rendered/invulnerable_wither.png)
 
-## Armored Wither
+### Armored Wither
 
-![Armored Wither](./rendered/b191b25d-0e7a-4309-b920-adbfa3fb6dcc.png)
+![Armored Wither](./rendered/armored_wither.png)
 
-## Armored Invulnerable Wither
+### Armored Invulnerable Wither
 
-![Armored Invulnerable Wither](./rendered/f7099969-e42a-4b89-9f8a-fb2c2d68bf23.png)
+![Armored Invulnerable Wither](./rendered/armored_invulnerable_wither.png)
 
-## Wolf
+### Wolf
 
-![Wolf](./rendered/f1bc16d8-a9a7-4bc9-840a-a65bf927ffa9.png)
+![Wolf](./rendered/wolf.png)
 
-## Angry Wolf
+### Angry Wolf
 
-![Angry Wolf](./rendered/1235ebea-4607-4714-abae-1d5a4039972d.png)
+![Angry Wolf](./rendered/angry_wolf.png)
 
-## Zoglin
+### Zoglin
 
-![Zoglin](./rendered/bbc16379-a78c-4421-9f2e-6be4952acb29.png)
+![Zoglin](./rendered/zoglin.png)
 
-## Zombie Horse
+### Zombie Horse
 
-![Zombie Horse](./rendered/ffe452f9-0dae-4d22-9282-d9c8b1127779.png)
+![Zombie Horse](./rendered/zombie_horse.png)
 
-## Zombified Piglin
+### Zombified Piglin
 
-![Zombified Piglin](./rendered/06f9faf1-8372-47a2-9e77-6dd9ad547768.png)
+![Zombified Piglin](./rendered/zombified_piglin.png)
 
