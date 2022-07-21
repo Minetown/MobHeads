@@ -8,7 +8,7 @@ import urllib.request
 import PIL.Image
 import os
 import re
-from typing import Iterable
+from typing import Iterable, List, Tuple
 
 ENTITY_DIRECTORY = "data/minecraft/loot_tables/entities"
 RENDERED_DIRECTORY = "rendered"
@@ -21,16 +21,20 @@ async def main():
   with open(OVERVIEW_FILE, "w") as overview:
     overview.write("# List of all Mob Heads\n\n")
 
-    for file in find_loot_tables():
-      for nbt in find_skull_nbt(file):
-        name = find_name(nbt)
-        url = find_texture_url(nbt)
-        output_file = f"{RENDERED_DIRECTORY}/{get_output_filename(name)}.png"
+    for name, url in sorted(find_mob_heads(), key = lambda x: x[0]):
+      output_file = f"{RENDERED_DIRECTORY}/{get_output_filename(name)}.png"
 
-        await render_head(url, output_file)
+      await render_head(url, output_file)
 
-        overview.write(f"### {name}\n\n")
-        overview.write(f"![{name}](./{output_file})\n\n")
+      overview.write(f"### {name}\n\n")
+      overview.write(f"![{name}](./{output_file})\n\n")
+
+def find_mob_heads() -> Iterable[Tuple[str, str]]:
+  for file in find_loot_tables():
+    for nbt in find_skull_nbt(file):
+      name = find_name(nbt)
+      url = find_texture_url(nbt)
+      yield (name, url)
       
 def find_loot_tables() -> Iterable[str]:
   for entry in os.listdir(ENTITY_DIRECTORY):
