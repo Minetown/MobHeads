@@ -4,161 +4,89 @@
 
 ![Allay](./rendered/allay.png)
 
-### Orange Sheep
+### Angry Wolf
 
-![Orange Sheep](./rendered/orange_sheep.png)
+![Angry Wolf](./rendered/angry_wolf.png)
 
-### Red Sheep
+### Armored Invulnerable Wither
 
-![Red Sheep](./rendered/red_sheep.png)
+![Armored Invulnerable Wither](./rendered/armored_invulnerable_wither.png)
 
-### Cyan Sheep
+### Armored Wither
 
-![Cyan Sheep](./rendered/cyan_sheep.png)
-
-### Light Gray Sheep
-
-![Light Gray Sheep](./rendered/light_gray_sheep.png)
-
-### Magenta Sheep
-
-![Magenta Sheep](./rendered/magenta_sheep.png)
-
-### Brown Sheep
-
-![Brown Sheep](./rendered/brown_sheep.png)
-
-### Light Blue Sheep
-
-![Light Blue Sheep](./rendered/light_blue_sheep.png)
-
-### Pink Sheep
-
-![Pink Sheep](./rendered/pink_sheep.png)
-
-### jeb_ Sheep
-
-![jeb_ Sheep](./rendered/jeb__sheep.png)
+![Armored Wither](./rendered/armored_wither.png)
 
 ### Black Sheep
 
 ![Black Sheep](./rendered/black_sheep.png)
 
-### Green Sheep
+### Blaze
 
-![Green Sheep](./rendered/green_sheep.png)
-
-### Purple Sheep
-
-![Purple Sheep](./rendered/purple_sheep.png)
+![Blaze](./rendered/blaze.png)
 
 ### Blue Sheep
 
 ![Blue Sheep](./rendered/blue_sheep.png)
 
-### Yellow Sheep
+### Brown Sheep
 
-![Yellow Sheep](./rendered/yellow_sheep.png)
+![Brown Sheep](./rendered/brown_sheep.png)
 
-### White Sheep
+### Cave Spider
 
-![White Sheep](./rendered/white_sheep.png)
+![Cave Spider](./rendered/cave_spider.png)
 
-### Gray Sheep
+### Charged Creeper
 
-![Gray Sheep](./rendered/gray_sheep.png)
+![Charged Creeper](./rendered/charged_creeper.png)
 
-### Lime Sheep
+### Chicken
 
-![Lime Sheep](./rendered/lime_sheep.png)
+![Chicken](./rendered/chicken.png)
 
 ### Cod
 
 ![Cod](./rendered/cod.png)
 
-### Pufferfish
+### Cow
 
-![Pufferfish](./rendered/pufferfish.png)
+![Cow](./rendered/cow.png)
 
-### Iron Golem
+### Cyan Sheep
 
-![Iron Golem](./rendered/iron_golem.png)
+![Cyan Sheep](./rendered/cyan_sheep.png)
 
-### Zombie Horse
+### Dolphin
 
-![Zombie Horse](./rendered/zombie_horse.png)
+![Dolphin](./rendered/dolphin.png)
 
-### Squid
+### Donkey
 
-![Squid](./rendered/squid.png)
+![Donkey](./rendered/donkey.png)
 
-### Pig
+### Drowned
 
-![Pig](./rendered/pig.png)
+![Drowned](./rendered/drowned.png)
 
-### Salmon
+### Elder Guardian
 
-![Salmon](./rendered/salmon.png)
+![Elder Guardian](./rendered/elder_guardian.png)
 
-### Wolf
+### Enderman
 
-![Wolf](./rendered/wolf.png)
-
-### Angry Wolf
-
-![Angry Wolf](./rendered/angry_wolf.png)
-
-### Piglin
-
-![Piglin](./rendered/piglin.png)
-
-### Silverfish
-
-![Silverfish](./rendered/silverfish.png)
-
-### Zombified Piglin
-
-![Zombified Piglin](./rendered/zombified_piglin.png)
-
-### Pillager
-
-![Pillager](./rendered/pillager.png)
+![Enderman](./rendered/enderman.png)
 
 ### Endermite
 
 ![Endermite](./rendered/endermite.png)
 
-### Snow Golem
+### Evoker
 
-![Snow Golem](./rendered/snow_golem.png)
+![Evoker](./rendered/evoker.png)
 
-### Phantom
+### Freezing Strider
 
-![Phantom](./rendered/phantom.png)
-
-### Zoglin
-
-![Zoglin](./rendered/zoglin.png)
-
-### Hoglin
-
-![Hoglin](./rendered/hoglin.png)
-
-### Illusioner
-
-![Illusioner](./rendered/illusioner.png)
-
-### Tropical Fish
-
-![Tropical Fish](./rendered/tropical_fish.png)
-
-### Piglin Brute
-
-![Piglin Brute](./rendered/piglin_brute.png)
-
-### Mule
-
-![Mule](./rendered/mule.png)
+![Freezing Strider](./rendered/freezing_strider.png)
 
 ### Ghast
 
@@ -168,139 +96,211 @@
 
 ![Glow Squid](./rendered/glow_squid.png)
 
-### Magma Cube
+### Gray Sheep
 
-![Magma Cube](./rendered/magma_cube.png)
+![Gray Sheep](./rendered/gray_sheep.png)
 
-### Witch
+### Green Sheep
 
-![Witch](./rendered/witch.png)
-
-### Donkey
-
-![Donkey](./rendered/donkey.png)
-
-### Stray
-
-![Stray](./rendered/stray.png)
+![Green Sheep](./rendered/green_sheep.png)
 
 ### Guardian
 
 ![Guardian](./rendered/guardian.png)
 
-### Polar Bear
+### Hoglin
 
-![Polar Bear](./rendered/polar_bear.png)
-
-### Drowned
-
-![Drowned](./rendered/drowned.png)
-
-### Vex
-
-![Vex](./rendered/vex.png)
-
-### Wither
-
-![Wither](./rendered/wither.png)
-
-### Invulnerable Wither
-
-![Invulnerable Wither](./rendered/invulnerable_wither.png)
-
-### Armored Wither
-
-![Armored Wither](./rendered/armored_wither.png)
-
-### Armored Invulnerable Wither
-
-![Armored Invulnerable Wither](./rendered/armored_invulnerable_wither.png)
-
-### Ravager
-
-![Ravager](./rendered/ravager.png)
-
-### Dolphin
-
-![Dolphin](./rendered/dolphin.png)
-
-### Enderman
-
-![Enderman](./rendered/enderman.png)
-
-### Chicken
-
-![Chicken](./rendered/chicken.png)
-
-### Elder Guardian
-
-![Elder Guardian](./rendered/elder_guardian.png)
-
-### Wandering Trader
-
-![Wandering Trader](./rendered/wandering_trader.png)
-
-### Ocelot
-
-![Ocelot](./rendered/ocelot.png)
-
-### Spider
-
-![Spider](./rendered/spider.png)
-
-### Tadpole
-
-![Tadpole](./rendered/tadpole.png)
-
-### Vindicator
-
-![Vindicator](./rendered/vindicator.png)
-
-### Warden
-
-![Warden](./rendered/warden.png)
-
-### Slime
-
-![Slime](./rendered/slime.png)
-
-### Turtle
-
-![Turtle](./rendered/turtle.png)
+![Hoglin](./rendered/hoglin.png)
 
 ### Husk
 
 ![Husk](./rendered/husk.png)
 
-### Strider
+### Illusioner
 
-![Strider](./rendered/strider.png)
+![Illusioner](./rendered/illusioner.png)
 
-### Freezing Strider
+### Invulnerable Wither
 
-![Freezing Strider](./rendered/freezing_strider.png)
+![Invulnerable Wither](./rendered/invulnerable_wither.png)
 
-### Cow
+### Iron Golem
 
-![Cow](./rendered/cow.png)
+![Iron Golem](./rendered/iron_golem.png)
 
-### Evoker
+### Light Blue Sheep
 
-![Evoker](./rendered/evoker.png)
+![Light Blue Sheep](./rendered/light_blue_sheep.png)
+
+### Light Gray Sheep
+
+![Light Gray Sheep](./rendered/light_gray_sheep.png)
+
+### Lime Sheep
+
+![Lime Sheep](./rendered/lime_sheep.png)
+
+### Magenta Sheep
+
+![Magenta Sheep](./rendered/magenta_sheep.png)
+
+### Magma Cube
+
+![Magma Cube](./rendered/magma_cube.png)
+
+### Mule
+
+![Mule](./rendered/mule.png)
+
+### Ocelot
+
+![Ocelot](./rendered/ocelot.png)
+
+### Orange Sheep
+
+![Orange Sheep](./rendered/orange_sheep.png)
+
+### Phantom
+
+![Phantom](./rendered/phantom.png)
+
+### Pig
+
+![Pig](./rendered/pig.png)
+
+### Piglin
+
+![Piglin](./rendered/piglin.png)
+
+### Piglin Brute
+
+![Piglin Brute](./rendered/piglin_brute.png)
+
+### Pillager
+
+![Pillager](./rendered/pillager.png)
+
+### Pink Sheep
+
+![Pink Sheep](./rendered/pink_sheep.png)
+
+### Polar Bear
+
+![Polar Bear](./rendered/polar_bear.png)
+
+### Pufferfish
+
+![Pufferfish](./rendered/pufferfish.png)
+
+### Purple Sheep
+
+![Purple Sheep](./rendered/purple_sheep.png)
+
+### Ravager
+
+![Ravager](./rendered/ravager.png)
+
+### Red Sheep
+
+![Red Sheep](./rendered/red_sheep.png)
+
+### Salmon
+
+![Salmon](./rendered/salmon.png)
+
+### Silverfish
+
+![Silverfish](./rendered/silverfish.png)
 
 ### Skeleton Horse
 
 ![Skeleton Horse](./rendered/skeleton_horse.png)
 
-### Charged Creeper
+### Slime
 
-![Charged Creeper](./rendered/charged_creeper.png)
+![Slime](./rendered/slime.png)
 
-### Blaze
+### Snow Golem
 
-![Blaze](./rendered/blaze.png)
+![Snow Golem](./rendered/snow_golem.png)
 
-### Cave Spider
+### Spider
 
-![Cave Spider](./rendered/cave_spider.png)
+![Spider](./rendered/spider.png)
+
+### Squid
+
+![Squid](./rendered/squid.png)
+
+### Stray
+
+![Stray](./rendered/stray.png)
+
+### Strider
+
+![Strider](./rendered/strider.png)
+
+### Tadpole
+
+![Tadpole](./rendered/tadpole.png)
+
+### Tropical Fish
+
+![Tropical Fish](./rendered/tropical_fish.png)
+
+### Turtle
+
+![Turtle](./rendered/turtle.png)
+
+### Vex
+
+![Vex](./rendered/vex.png)
+
+### Vindicator
+
+![Vindicator](./rendered/vindicator.png)
+
+### Wandering Trader
+
+![Wandering Trader](./rendered/wandering_trader.png)
+
+### Warden
+
+![Warden](./rendered/warden.png)
+
+### White Sheep
+
+![White Sheep](./rendered/white_sheep.png)
+
+### Witch
+
+![Witch](./rendered/witch.png)
+
+### Wither
+
+![Wither](./rendered/wither.png)
+
+### Wolf
+
+![Wolf](./rendered/wolf.png)
+
+### Yellow Sheep
+
+![Yellow Sheep](./rendered/yellow_sheep.png)
+
+### Zoglin
+
+![Zoglin](./rendered/zoglin.png)
+
+### Zombie Horse
+
+![Zombie Horse](./rendered/zombie_horse.png)
+
+### Zombified Piglin
+
+![Zombified Piglin](./rendered/zombified_piglin.png)
+
+### jeb_ Sheep
+
+![jeb_ Sheep](./rendered/jeb__sheep.png)
 
