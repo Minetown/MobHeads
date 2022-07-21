@@ -9,9 +9,9 @@ You can find a list of all available heads [here](HEADS.md).
 
 ## (Re-)generating the head overview
 
-To regenerate the head overview, you need to execute the following commands:
+The scripts for this project are written in python and the required dependencies can be found in [requirements.txt](requirements.txt).
+To regenerate the head overview, you need to execute the following command:
 
 ```
-pip install MinePI
 python3 scripts/generate_head_overview.py
 ```
