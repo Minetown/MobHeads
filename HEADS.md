@@ -4,18 +4,6 @@
 
 ![Allay](./rendered/allay.png)
 
-### Angry Wolf
-
-![Angry Wolf](./rendered/angry_wolf.png)
-
-### Armored Invulnerable Wither
-
-![Armored Invulnerable Wither](./rendered/armored_invulnerable_wither.png)
-
-### Armored Wither
-
-![Armored Wither](./rendered/armored_wither.png)
-
 ### Black Sheep
 
 ![Black Sheep](./rendered/black_sheep.png)
@@ -28,9 +16,17 @@
 
 ![Blue Sheep](./rendered/blue_sheep.png)
 
+### Blue Wither Projectile
+
+![Blue Wither Projectile](./rendered/blue_wither_projectile.png)
+
 ### Brown Sheep
 
 ![Brown Sheep](./rendered/brown_sheep.png)
+
+### Camel
+
+![Camel](./rendered/camel.png)
 
 ### Cave Spider
 
@@ -47,6 +43,10 @@
 ### Cod
 
 ![Cod](./rendered/cod.png)
+
+### Cold Strider
+
+![Cold Strider](./rendered/cold_strider.png)
 
 ### Cow
 
@@ -84,10 +84,6 @@
 
 ![Evoker](./rendered/evoker.png)
 
-### Freezing Strider
-
-![Freezing Strider](./rendered/freezing_strider.png)
-
 ### Ghast
 
 ![Ghast](./rendered/ghast.png)
@@ -119,10 +115,6 @@
 ### Illusioner
 
 ![Illusioner](./rendered/illusioner.png)
-
-### Invulnerable Wither
-
-![Invulnerable Wither](./rendered/invulnerable_wither.png)
 
 ### Iron Golem
 
@@ -172,10 +164,6 @@
 
 ![Pig](./rendered/pig.png)
 
-### Piglin
-
-![Piglin](./rendered/piglin.png)
-
 ### Piglin Brute
 
 ![Piglin Brute](./rendered/piglin_brute.png)
@@ -224,6 +212,10 @@
 
 ![Slime](./rendered/slime.png)
 
+### Sniffer
+
+![Sniffer](./rendered/sniffer.png)
+
 ### Snow Golem
 
 ![Snow Golem](./rendered/snow_golem.png)
@@ -260,6 +252,10 @@
 
 ![Vex](./rendered/vex.png)
 
+### Vex
+
+![Vex](./rendered/vex.png)
+
 ### Vindicator
 
 ![Vindicator](./rendered/vindicator.png)
@@ -284,9 +280,9 @@
 
 ![Wither](./rendered/wither.png)
 
-### Wolf
+### Wither Projectile
 
-![Wolf](./rendered/wolf.png)
+![Wither Projectile](./rendered/wither_projectile.png)
 
 ### Yellow Sheep
 
