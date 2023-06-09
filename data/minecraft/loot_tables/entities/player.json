@@ -1,30 +1,30 @@
 {
   "type": "minecraft:entity",
   "pools": [
-  	{
-  	  "rolls": 1,
-  	  "entries": [
-  	    {
-  	  	  "type": "item",
-  	  	  "name": "minecraft:player_head",
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:player_head",
           "functions": [
             {
               "function": "fill_player_head",
               "entity": "this"
             }
           ],
-					"conditions": [
-						{
-							"condition": "killed_by_player"
-						},
+          "conditions": [
+            {
+              "condition": "killed_by_player"
+            },
             {
               "condition": "random_chance_with_looting",
               "chance": 0.2,
               "looting_multiplier": 0.05
             }
-					]
-  	    }
-  	  ]
-  	}
+          ]
+        }
+      ]
+    }
   ]
 }
