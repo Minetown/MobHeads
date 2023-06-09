@@ -3,7 +3,7 @@ import base64
 import io
 import json
 import shutil
-import MinePI
+from minepi import Skin
 import urllib.request
 import PIL.Image
 import os
@@ -92,7 +92,8 @@ def get_output_filename(name: str) -> str:
 async def render_head(url: str, output_file: str) -> str:
   with urllib.request.urlopen(url) as f:
     image = PIL.Image.open(io.BytesIO(f.read()))
-    rendered = await MinePI.render_3d_head(skin_image=image, ratio=12, display_hair=True, aa=True)
+    skin = Skin(raw_skin=image)
+    rendered = await skin.render_head(vr=-25, ratio=12, display_hair=True, aa=True)
     rendered.save(output_file, "PNG")
 
 if __name__ == '__main__':
