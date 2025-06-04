@@ -1,302 +1,326 @@
 # List of all Mob Heads
 
-### Allay
+### Allay Head
 
-![Allay](./rendered/allay.png)
+![Allay Head](./rendered/allay_head.png)
 
-### Black Sheep
+### Armadillo Head
 
-![Black Sheep](./rendered/black_sheep.png)
+![Armadillo Head](./rendered/armadillo_head.png)
 
-### Blaze
+### Bat Head
 
-![Blaze](./rendered/blaze.png)
+![Bat Head](./rendered/bat_head.png)
 
-### Blue Sheep
+### Black Sheep Head
 
-![Blue Sheep](./rendered/blue_sheep.png)
+![Black Sheep Head](./rendered/black_sheep_head.png)
 
-### Blue Wither Projectile
+### Blaze Head
 
-![Blue Wither Projectile](./rendered/blue_wither_projectile.png)
+![Blaze Head](./rendered/blaze_head.png)
 
-### Brown Sheep
+### Blue Sheep Head
 
-![Brown Sheep](./rendered/brown_sheep.png)
+![Blue Sheep Head](./rendered/blue_sheep_head.png)
 
-### Camel
+### Blue Wither Projectile Head
 
-![Camel](./rendered/camel.png)
+![Blue Wither Projectile Head](./rendered/blue_wither_projectile_head.png)
 
-### Cave Spider
+### Bogged Head
 
-![Cave Spider](./rendered/cave_spider.png)
+![Bogged Head](./rendered/bogged_head.png)
 
-### Charged Creeper
+### Breeze Head
 
-![Charged Creeper](./rendered/charged_creeper.png)
+![Breeze Head](./rendered/breeze_head.png)
 
-### Chicken
+### Brown Sheep Head
 
-![Chicken](./rendered/chicken.png)
+![Brown Sheep Head](./rendered/brown_sheep_head.png)
 
-### Cod
+### Camel Head
 
-![Cod](./rendered/cod.png)
+![Camel Head](./rendered/camel_head.png)
 
-### Cold Strider
+### Cave Spider Head
 
-![Cold Strider](./rendered/cold_strider.png)
+![Cave Spider Head](./rendered/cave_spider_head.png)
 
-### Cow
+### Charged Creeper Head
 
-![Cow](./rendered/cow.png)
+![Charged Creeper Head](./rendered/charged_creeper_head.png)
 
-### Cyan Sheep
+### Chicken Head
 
-![Cyan Sheep](./rendered/cyan_sheep.png)
+![Chicken Head](./rendered/chicken_head.png)
 
-### Dolphin
+### Cod Head
 
-![Dolphin](./rendered/dolphin.png)
+![Cod Head](./rendered/cod_head.png)
 
-### Donkey
+### Cold Strider Head
 
-![Donkey](./rendered/donkey.png)
+![Cold Strider Head](./rendered/cold_strider_head.png)
 
-### Drowned
+### Cow Head
 
-![Drowned](./rendered/drowned.png)
+![Cow Head](./rendered/cow_head.png)
 
-### Elder Guardian
+### Cyan Sheep Head
 
-![Elder Guardian](./rendered/elder_guardian.png)
+![Cyan Sheep Head](./rendered/cyan_sheep_head.png)
 
-### Enderman
+### Dolphin Head
 
-![Enderman](./rendered/enderman.png)
+![Dolphin Head](./rendered/dolphin_head.png)
 
-### Endermite
+### Donkey Head
 
-![Endermite](./rendered/endermite.png)
+![Donkey Head](./rendered/donkey_head.png)
 
-### Evoker
+### Drowned Head
 
-![Evoker](./rendered/evoker.png)
+![Drowned Head](./rendered/drowned_head.png)
 
-### Ghast
+### Elder Guardian Head
 
-![Ghast](./rendered/ghast.png)
+![Elder Guardian Head](./rendered/elder_guardian_head.png)
 
-### Glow Squid
+### Enderman Head
 
-![Glow Squid](./rendered/glow_squid.png)
+![Enderman Head](./rendered/enderman_head.png)
 
-### Gray Sheep
+### Endermite Head
 
-![Gray Sheep](./rendered/gray_sheep.png)
+![Endermite Head](./rendered/endermite_head.png)
 
-### Green Sheep
+### Evoker Head
 
-![Green Sheep](./rendered/green_sheep.png)
+![Evoker Head](./rendered/evoker_head.png)
 
-### Guardian
+### Ghast Head
 
-![Guardian](./rendered/guardian.png)
+![Ghast Head](./rendered/ghast_head.png)
 
-### Hoglin
+### Glow Squid Head
 
-![Hoglin](./rendered/hoglin.png)
+![Glow Squid Head](./rendered/glow_squid_head.png)
 
-### Husk
+### Gray Sheep Head
 
-![Husk](./rendered/husk.png)
+![Gray Sheep Head](./rendered/gray_sheep_head.png)
 
-### Illusioner
+### Green Sheep Head
 
-![Illusioner](./rendered/illusioner.png)
+![Green Sheep Head](./rendered/green_sheep_head.png)
 
-### Iron Golem
+### Guardian Head
 
-![Iron Golem](./rendered/iron_golem.png)
+![Guardian Head](./rendered/guardian_head.png)
 
-### jeb_ Sheep
+### Hoglin Head
 
-![jeb_ Sheep](./rendered/jeb__sheep.png)
+![Hoglin Head](./rendered/hoglin_head.png)
 
-### Light Blue Sheep
+### Husk Head
 
-![Light Blue Sheep](./rendered/light_blue_sheep.png)
+![Husk Head](./rendered/husk_head.png)
 
-### Light Gray Sheep
+### Illusioner Head
 
-![Light Gray Sheep](./rendered/light_gray_sheep.png)
+![Illusioner Head](./rendered/illusioner_head.png)
 
-### Lime Sheep
+### Iron Golem Head
 
-![Lime Sheep](./rendered/lime_sheep.png)
+![Iron Golem Head](./rendered/iron_golem_head.png)
 
-### Magenta Sheep
+### jeb_ Sheep Head
 
-![Magenta Sheep](./rendered/magenta_sheep.png)
+![jeb_ Sheep Head](./rendered/jeb__sheep_head.png)
 
-### Magma Cube
+### Light Blue Sheep Head
 
-![Magma Cube](./rendered/magma_cube.png)
+![Light Blue Sheep Head](./rendered/light_blue_sheep_head.png)
 
-### Mule
+### Light Gray Sheep Head
 
-![Mule](./rendered/mule.png)
+![Light Gray Sheep Head](./rendered/light_gray_sheep_head.png)
 
-### Ocelot
+### Lime Sheep Head
 
-![Ocelot](./rendered/ocelot.png)
+![Lime Sheep Head](./rendered/lime_sheep_head.png)
 
-### Orange Sheep
+### Magenta Sheep Head
 
-![Orange Sheep](./rendered/orange_sheep.png)
+![Magenta Sheep Head](./rendered/magenta_sheep_head.png)
 
-### Phantom
+### Magma Cube Head
 
-![Phantom](./rendered/phantom.png)
+![Magma Cube Head](./rendered/magma_cube_head.png)
 
-### Pig
+### Mule Head
 
-![Pig](./rendered/pig.png)
+![Mule Head](./rendered/mule_head.png)
 
-### Piglin Brute
+### Ocelot Head
 
-![Piglin Brute](./rendered/piglin_brute.png)
+![Ocelot Head](./rendered/ocelot_head.png)
 
-### Pillager
+### Orange Sheep Head
 
-![Pillager](./rendered/pillager.png)
+![Orange Sheep Head](./rendered/orange_sheep_head.png)
 
-### Pink Sheep
+### Phantom Head
 
-![Pink Sheep](./rendered/pink_sheep.png)
+![Phantom Head](./rendered/phantom_head.png)
 
-### Polar Bear
+### Pig Head
 
-![Polar Bear](./rendered/polar_bear.png)
+![Pig Head](./rendered/pig_head.png)
 
-### Pufferfish
+### Piglin Brute Head
 
-![Pufferfish](./rendered/pufferfish.png)
+![Piglin Brute Head](./rendered/piglin_brute_head.png)
 
-### Purple Sheep
+### Pillager Head
 
-![Purple Sheep](./rendered/purple_sheep.png)
+![Pillager Head](./rendered/pillager_head.png)
 
-### Ravager
+### Pink Sheep Head
 
-![Ravager](./rendered/ravager.png)
+![Pink Sheep Head](./rendered/pink_sheep_head.png)
 
-### Red Sheep
+### Polar Bear Head
 
-![Red Sheep](./rendered/red_sheep.png)
+![Polar Bear Head](./rendered/polar_bear_head.png)
 
-### Salmon
+### Pufferfish Head
 
-![Salmon](./rendered/salmon.png)
+![Pufferfish Head](./rendered/pufferfish_head.png)
 
-### Silverfish
+### Purple Sheep Head
 
-![Silverfish](./rendered/silverfish.png)
+![Purple Sheep Head](./rendered/purple_sheep_head.png)
 
-### Skeleton Horse
+### Ravager Head
 
-![Skeleton Horse](./rendered/skeleton_horse.png)
+![Ravager Head](./rendered/ravager_head.png)
 
-### Slime
+### Red Sheep Head
 
-![Slime](./rendered/slime.png)
+![Red Sheep Head](./rendered/red_sheep_head.png)
 
-### Sniffer
+### Salmon Head
 
-![Sniffer](./rendered/sniffer.png)
+![Salmon Head](./rendered/salmon_head.png)
 
-### Snow Golem
+### Shulker Head
 
-![Snow Golem](./rendered/snow_golem.png)
+![Shulker Head](./rendered/shulker_head.png)
 
-### Spider
+### Silverfish Head
 
-![Spider](./rendered/spider.png)
+![Silverfish Head](./rendered/silverfish_head.png)
 
-### Squid
+### Skeleton Horse Head
 
-![Squid](./rendered/squid.png)
+![Skeleton Horse Head](./rendered/skeleton_horse_head.png)
 
-### Stray
+### Slime Head
 
-![Stray](./rendered/stray.png)
+![Slime Head](./rendered/slime_head.png)
 
-### Strider
+### Sniffer Head
 
-![Strider](./rendered/strider.png)
+![Sniffer Head](./rendered/sniffer_head.png)
 
-### Tadpole
+### Snow Golem Head
 
-![Tadpole](./rendered/tadpole.png)
+![Snow Golem Head](./rendered/snow_golem_head.png)
 
-### Tropical Fish
+### Spider Head
 
-![Tropical Fish](./rendered/tropical_fish.png)
+![Spider Head](./rendered/spider_head.png)
 
-### Turtle
+### Squid Head
 
-![Turtle](./rendered/turtle.png)
+![Squid Head](./rendered/squid_head.png)
 
-### Vex
+### Stray Head
 
-![Vex](./rendered/vex.png)
+![Stray Head](./rendered/stray_head.png)
 
-### Vex
+### Strider Head
 
-![Vex](./rendered/vex.png)
+![Strider Head](./rendered/strider_head.png)
 
-### Vindicator
+### Tadpole Head
 
-![Vindicator](./rendered/vindicator.png)
+![Tadpole Head](./rendered/tadpole_head.png)
 
-### Wandering Trader
+### Toast Head
 
-![Wandering Trader](./rendered/wandering_trader.png)
+![Toast Head](./rendered/toast_head.png)
 
-### Warden
+### Tropical Fish Head
 
-![Warden](./rendered/warden.png)
+![Tropical Fish Head](./rendered/tropical_fish_head.png)
 
-### White Sheep
+### Turtle Head
 
-![White Sheep](./rendered/white_sheep.png)
+![Turtle Head](./rendered/turtle_head.png)
 
-### Witch
+### Vex Head
 
-![Witch](./rendered/witch.png)
+![Vex Head](./rendered/vex_head.png)
 
-### Wither
+### Vex Head
 
-![Wither](./rendered/wither.png)
+![Vex Head](./rendered/vex_head.png)
 
-### Wither Projectile
+### Vindicator Head
 
-![Wither Projectile](./rendered/wither_projectile.png)
+![Vindicator Head](./rendered/vindicator_head.png)
 
-### Yellow Sheep
+### Wandering Trader Head
 
-![Yellow Sheep](./rendered/yellow_sheep.png)
+![Wandering Trader Head](./rendered/wandering_trader_head.png)
 
-### Zoglin
+### Warden Head
 
-![Zoglin](./rendered/zoglin.png)
+![Warden Head](./rendered/warden_head.png)
 
-### Zombie Horse
+### White Sheep Head
 
-![Zombie Horse](./rendered/zombie_horse.png)
+![White Sheep Head](./rendered/white_sheep_head.png)
 
-### Zombified Piglin
+### Witch Head
 
-![Zombified Piglin](./rendered/zombified_piglin.png)
+![Witch Head](./rendered/witch_head.png)
+
+### Wither Head
+
+![Wither Head](./rendered/wither_head.png)
+
+### Wither Projectile Head
+
+![Wither Projectile Head](./rendered/wither_projectile_head.png)
+
+### Yellow Sheep Head
+
+![Yellow Sheep Head](./rendered/yellow_sheep_head.png)
+
+### Zoglin Head
+
+![Zoglin Head](./rendered/zoglin_head.png)
+
+### Zombie Horse Head
+
+![Zombie Horse Head](./rendered/zombie_horse_head.png)
+
+### Zombified Piglin Head
+
+![Zombified Piglin Head](./rendered/zombified_piglin_head.png)
 
