@@ -7,10 +7,9 @@ from minepi import Skin
 import urllib.request
 import PIL.Image
 import os
-import re
-from typing import Iterable, List, Tuple
+from typing import Iterable, Tuple
 
-ENTITY_DIRECTORY = "data/minecraft/loot_tables/entities"
+ENTITY_DIRECTORY = "data/more_mob_heads/loot_table/entities"
 RENDERED_DIRECTORY = "rendered"
 OVERVIEW_FILE = "HEADS.md"
 
@@ -31,10 +30,7 @@ async def main():
 
 def find_mob_heads() -> Iterable[Tuple[str, str]]:
   for file in find_loot_tables():
-    for nbt in find_skull_nbt(file):
-      name = find_name(nbt)
-      url = find_texture_url(nbt)
-      yield (name, url)
+    yield from find_skull_nbt(file)
       
 def find_loot_tables() -> Iterable[str]:
   for entry in os.listdir(ENTITY_DIRECTORY):
@@ -51,7 +47,7 @@ def find_loot_tables() -> Iterable[str]:
     elif os.path.isfile(file) and file.endswith(".json"):
       yield file
 
-def find_skull_nbt(file) -> Iterable[str]:
+def find_skull_nbt(file) -> Iterable[Tuple[str, str]]:
   with open(file, "r") as f:
     root = json.load(f)
 
@@ -61,30 +57,21 @@ def find_skull_nbt(file) -> Iterable[str]:
           continue
 
         for function in entry["functions"]:
-          if function["function"] != "set_nbt":
+          if function["function"] != "set_components":
             continue
 
-          nbt = str(function["tag"])
+          components = function["components"]
 
-          if nbt.startswith("{SkullOwner:{"):
-            yield nbt
+          if "minecraft:profile" not in components or "minecraft:item_name" not in components:
+            continue
 
-def find_name(nbt: str) -> str: 
-  names = re.findall(r"Name:\"([\w ]+)\"", nbt)
+          textures = components["minecraft:profile"]["properties"][0]["value"]
+          decoded_textures = json.loads(base64.b64decode(textures))
+          url = decoded_textures["textures"]["SKIN"]["url"]
 
-  if len(names) != 1:
-    raise KeyError(f"Could not find unambiguous name in '{nbt}'")
+          name = components["minecraft:item_name"].replace("\"", "")
 
-  return names[0]
-
-def find_texture_url(nbt: str) -> str:
-  texture_values = re.findall(r"Properties:{textures:\[{Value:\"([\w\+/=]+)\"", nbt)
-
-  if len(texture_values) != 1:
-    raise KeyError(f"Could not find unambiguous texture value in '{nbt}'")
-
-  root = json.loads(base64.b64decode(texture_values[0]))
-  return root["textures"]["SKIN"]["url"]
+          yield (name, url)
 
 def get_output_filename(name: str) -> str:
   return name.lower().replace(" ", "_")
